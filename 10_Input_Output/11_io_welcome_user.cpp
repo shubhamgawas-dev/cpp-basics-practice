@@ -1,5 +1,5 @@
-// Program: Takes user's full name as input and displays a personalized welcome message
-// Concept: Basic Input and Output using getline()
+// Program: Takes user's name as input and displays a welcome message
+// Concept: Basic Input and Output (cin, cout)
 
 #include<iostream>
 using namespace std;
@@ -8,10 +8,10 @@ int main()
 {
     string name;
 
-    cout<<"Enter Your Name: ";
-    getline(cin,name);
+    cout<<"Enter your name : ";
+    cin>>name;
 
-    cout<<"Welcome, "<<name<<"! Have a great day."<<endl;
+    cout<<"WELCOME, "<<name<<"! Have a great day!"<<endl;
 
     return 0;
 }
