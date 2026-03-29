@@ -13,6 +13,10 @@ It is part of my journey as a Computer Science Engineering student to build stro
 - Comments  
 - Variable Scope  
 - Data Types  
+- Input output
+- Operators
+- Reference variables
+- Typecasting 
 
 (More topics will be added continuously as I learn)
 
