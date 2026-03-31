@@ -1,4 +1,4 @@
-// Program: Demonstrates logical operators using conditions
+// Program: Demonstrates logical operators using conditions.
 // Concept: Logical Operators (&&, ||, !)
 
 #include <iostream>
