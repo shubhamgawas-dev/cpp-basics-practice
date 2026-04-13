@@ -17,6 +17,17 @@ It is part of my journey as a Computer Science Engineering student to build stro
 - Operators
 - Reference variables
 - Typecasting 
+- Constants
+- Manipulators
+- Switch case
+- Conditional Statements
+- Loops
+- Break and Continue
+- Pointers
+- Arrays
+- Structure, Enum, and Union
+- Functions
+- Inline Functions
 
 (More topics will be added continuously as I learn)
 
