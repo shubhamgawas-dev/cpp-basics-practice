@@ -1,4 +1,5 @@
 // Program: Create a function to calculate factorial using loop
+// Concept: Functions in C++
 // Description: This program calculates the factorial of a number using a user-defined function and loop.
 // Author: Shubham Gawas
 
